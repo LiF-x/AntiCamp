@@ -1,5 +1,5 @@
 # AntiCamp
-Requires minimum ![Dynamic JSON Badge]
+Requires Lifx server Framework
 
 [Download here](https://github.com/LiF-x/AntiCamp/releases/latest)
 
