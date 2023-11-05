@@ -1,7 +1,8 @@
 # AntiCamp
 Requires Lifx server Framework
 
-[Download here](https://github.com/LiF-x/AntiCamp/releases/latest)
+
+[Download AntiCamp Mod](https://github.com/LiF-x/AntiCamp/releases/latest)
 
 ### Installation instructions
 
