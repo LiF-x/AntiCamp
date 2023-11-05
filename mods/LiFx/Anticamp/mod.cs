@@ -91,7 +91,7 @@ package LiFxAntiCamper
     dbi.Select(LiFxAntiCamper, "MessageAllWithCustomText", "SELECT CONCAT((SELECT CONCAT('<spop><spush><color:c6935f>', Name, ' ', LastName, '<spop><spush>') FROM `character` WHERE ID = " @ %CharID @ "),' was just moved from a claim, do not try and camp like a coward -  LiFxAnticamp') AS Message");
   }
   function LiFxAntiCamper::version() {
-    return "1.0.0";
+    return "1.0.1";
   }
 };
 
