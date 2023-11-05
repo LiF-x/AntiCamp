@@ -72,7 +72,6 @@ package LiFxAntiCamper
                 LiFxAntiCamper::onTeleport(%client.getCharacterId());
             }
 
-//            LiFxUtility::messageAll(2476,"<spop><spush><color:c6935f>Dont be a little bitch<spop><spush> and Do not camp");
           }
         }
       }
