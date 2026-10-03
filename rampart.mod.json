@@ -3,8 +3,8 @@
   "id": "AntiCamp",
   "name": "AntiCamp",
   "version": "1.0.1",
-  "description": "Stops enemies logging in inside another guild's claim.",
-  "authors": ["Warped Ibun", "Christophe Roblin"],
+  "description": "Stops enemies from logging in inside another guild's claim.",
+  "authors": ["Warped Ibun"],
   "source": {
     "repo": "LiF-x/AntiCamp",
     "commit": "fb19795bcb45aaef8b2e31ad48220fff27a55448"
@@ -15,7 +15,7 @@
   },
   "license": "GPL-2.0-only",
   "distribution": "hostable",
-  "dependencies": ["LiF-x/ServerAutoloader"],
+  "dependencies": ["LiF-x/ServerAutoloader", "LiF-x/ServerUtility"],
   "loadOrderHint": 100,
   "files": {
     "overlay": [
